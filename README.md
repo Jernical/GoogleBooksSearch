@@ -5,7 +5,7 @@
 ## Step One (Clone the Repository) ##
 
 ```
-git clone https://github.com/Jernical/Clicky-Game-w-React.git
+git clone https://github.com/Jernical/React-GoogleBooksSearch.git
 ```
 ## Step Two (Install Packages!) ##
 
